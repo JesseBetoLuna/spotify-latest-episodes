@@ -1,62 +1,62 @@
 {
     "playlist": {
-        "id": "2C9mOayNI4OD4i2DamNsbm",
-        "name": "Noticias del día"
+        "id": "2ovzBOIFoYg68PybAqllyG",
+        "name": "Mis Podcasts Matutinos"
     },
     "podcasts": [
         {
-            "id": "4EwwdoHHYmbt49UXODQMpi",
-            "name": "Las noticias de la SER"
+            "id": "0lMK7zHBBc31MsZMFRPjra",
+            "name": "En Portada, historias que se escuchan"
         },
         {
-            "id": "2pXBpdfJoAo2iNz5G25nCP",
-            "name": "AM"
+            "id": "5Gka9laolwx0TzJ0biYpxz",
+            "name": "Tu Shot de Noticias"
         },
         {
-            "id": "4n2SYRzAXUKDFccZ993ZEh",
-            "name": "Hoy en EL PAÍS"
+            "id": "2vLiCH78iiqtRcQe78ADRt",
+            "name": "Noticias Univision"
         },
         {
-            "id": "6z2cewLloFTYiBrY84rM7z",
-            "name": "EL MUNDO al día"
+            "id": "6xvunkIEkyj2QvGcKJjj0F",
+            "name": "Apple News Today"
         },
         {
-            "id": "54Vnd9qwrTaINwzCkTTIWO",
-            "name": "Un tema Al Día"
+            "id": "0QW3LRTsUc3FDeBpEeb8ug",
+            "name": "OverFLOW - noticias tech a diario"
         },
         {
-            "id": "0cLJl7pvrr1bkUaKiVRggf",
-            "name": "Las Noticias de ABC"
+            "id": "0SkfwgUHld5SouW5e3eMMt",
+            "name": "Hoy en LOS40"
         },
         {
-            "id": "12CqPzHZXXX0nrkuwX9dNE",
-            "name": "DESPIERTA TU CURIOSIDAD"
+            "id": "5BH7KHBb28tFMSlwB7qTOm",
+            "name": "Broojula"
         },
         {
-            "id": "47cbCjksqpZfbMqc9HrI0p",
-            "name": "Noticias paralelas"
+            "id": "1gHFK74MekiFOedEC1ZZY4",
+            "name": "Ultimo Hombre En Pie"
         },
         {
-            "id": "0FTwiCMKTwCTmySy4u2X3j",
-            "name": "La Primera de Expansión"
+            "id": "0NXF3nHMLWO7qEdaUsp99b",
+            "name": "La Estrategia del dia Mexico"
         },
         {
-            "id": "5dbvpKwtqz3X3hcX1BSEzf",
-            "name": "No es el fin del mundo"
+            "id": "0vDgnorbpBr65YZzFVVouE",
+            "name": "CNN 5 Cosas"
         },
         {
-            "id": "42fDhii4v5RYuHTgy00un2",
-            "name": "Hoy en la historia",
+            "id": "6y94XsOcVkYJqitY0iQfbl",
+            "name": "Farandula021",
             "ignore": true
         },
         {
-            "id": "1OZb8uCoiy9vG5mIyL9ytg",
-            "name": "Clave Barroso",
+            "id": "7IaHQWaG9UH540TIf1wYFV",
+            "name": "Nueva Musica",
             "ignore": true
         },
         {
-            "id": "7h45VNT5C5NdbgqEegq5YI",
-            "name": "Esta no te la sabes",
+            "id": "0sGGLIDnnijRPLef7InllD",
+            "name": "Entiende Tu Mente",
             "ignore": true
         }
     ]
